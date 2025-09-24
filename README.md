@@ -31,4 +31,4 @@
 ## 🚀 Как использовать
 1. Клонировать репозиторий:
    ```bash
-   git clone https://github.com/<username>/Machine-Learning-by-Geron-Book.git
+   git clone https://github.com/Karimkhab/Machine-Learning-by-Geron-Book.git
